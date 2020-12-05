@@ -19,6 +19,7 @@ Below are the utilities which are a part of my daily workflow.
 - [Vanilla](#vanilla)
 - [Amphetamine](#amphetamine)
 - [Hocus Focus](#hocus-focus)
+- [Clipy](#Clipy)
 
 ### [Command-line utilities](#command-line-utilities)
 - [Homebrew](#homebrew)
