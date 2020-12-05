@@ -2,8 +2,8 @@
 layout: post
 title: Things I use on my mac
 excerpt: ''
-date: 
-last_modified_at: 
+date: 2020-11-30 18:30:00 +0000
+last_modified_at: 2020-10-31 18:30:00 +0000
 categories: []
 tags: []
 comments: false
