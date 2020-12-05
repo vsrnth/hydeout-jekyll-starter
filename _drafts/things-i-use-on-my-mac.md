@@ -88,7 +88,7 @@ Remove the mappings for key combinations ⌥ + ← and ⌥ + →
 - I could go into detail as to what's good about it, but since it has 21 day trial take it for a whirl.
 
 #### <a name=choosy></a> Choosy
-- As the name suggests this app helps you choose which browser to use when opening links instead of the default browser, Choosy sends them to the right browser. Every time.
+- As the name suggests this app helps you choose which browser to use when opening links instead of the default browser.
 - You can customise Choosy to the way you want it, links from Slack can go a specific browser and links from Discord can go to another browser.
 
 #### <a name=vanilla></a> Vanilla
