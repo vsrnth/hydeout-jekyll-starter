@@ -14,7 +14,7 @@ Below are the utilities which are a part of my daily workflow.
 ***
 
 ### Apps
-- [iTerm2 Config](#iterm2)
+- [iTerm2](#iterm2)
 - [Fantastical](#fantastical)
 - [Vanilla](#vanilla)
 - [Amphetamine](#amphetamine)
