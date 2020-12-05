@@ -7,8 +7,8 @@ sidebar_sort_order:
 
 ---
 
-## Hey there! 👋
-### I'm Srinath, I code in Ruby on Rails and dabble in ReactJs
+### Hey there! 👋
+#### I'm Srinath, I code in Ruby on Rails and dabble in ReactJs
 
 
 
