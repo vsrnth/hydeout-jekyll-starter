@@ -90,7 +90,7 @@ Remove the mappings for key combinations ⌥ + ← and ⌥ + →
 - [Vaniila](https://matthewpalmer.net/vanilla/) hides stuff in your menu bar.
 - It was so good I bought it 😊.
 
-#### <a name='amphetamine'/></a> Amphetamine
+#### <a name='amphetamine'></a> Amphetamine
 - To prevent the machine from dozing off
 - It can be configured in a multitude of ways so check out the preferences to tweak it to your liking.
 
