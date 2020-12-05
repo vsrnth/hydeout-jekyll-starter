@@ -18,5 +18,7 @@ Thanks for dropping by my blog on your journey on the internet :)
 </div>
 
 ## Hey there! 👋
-
 ### I'm Srinath, I code in Ruby on Rails and dabble in ReactJs
+```
+This is my personal blog, here I write about things I don't want to forget about.
+```
