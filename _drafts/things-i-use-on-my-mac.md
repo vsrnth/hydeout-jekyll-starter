@@ -9,10 +9,7 @@ tags: []
 comments: false
 
 ---
-\--- title: Setting up my mac date: "2019-10-11T23:46:37.121Z" layout: post draft: false path: "/posts/setting-up-my-mac/" category: "Development" tags:   - "OS X"   - "Development"   - "Setup" description: "Apps and command-line utilities I use on a daily basis in my workflow." --- 
-
-
-\### Below are the utilities which are a part of my daily workflow.
+Below are the utilities which are a part of my daily workflow.
 
 \***
 
@@ -28,7 +25,6 @@ comments: false
 \- \[Ripgrep\](#ripgrep)
 \- \[Tig\](#tig)
 \- \[Icdiff\](#icdiff)
-
 
 \#### <a name='iterm2'></a> iTerm2
 \- OS X's terminal is fine, but personally find it lacking.
@@ -90,7 +86,6 @@ Remove the mappings for key combinations ⌥ + ← and ⌥ + →
 \- \[Fantastical\]([https://flexibits.com/fantastical](https://flexibits.com/fantastical "https://flexibits.com/fantastical")) It's a third party calendar manager which is excellent at it's job.
 \- I could go into detail as to what's good about it, but since it has 21 day trial take it for a whirl.
 
-
 \#### <a name=vanilla></a> Vanilla
 \- \[Vaniila\]([https://matthewpalmer.net/vanilla/](https://matthewpalmer.net/vanilla/ "https://matthewpalmer.net/vanilla/")) hides stuff in your menu bar.
 \- It was so good I bought it 😊.
@@ -103,24 +98,24 @@ Remove the mappings for key combinations ⌥ + ← and ⌥ + →
 \- This app hides any inactive windows.
 \- [http://hocusfoc.us/](http://hocusfoc.us/ "http://hocusfoc.us/")
 
-
 \### <a name='command-line-utilities'></a> Command-line Utilities
 
 \#### <a name='homebrew'></a> Homebrew
 \- You probably have this installed on your macbook, if not please go ahead and install it.
 \- Homebrew is more or less essential to installing any utility on your mac and it does so in a jiffy.
-  - You could install stuff without homebrew, but why would you want to do so when homebrew does it for you easily.
-\- [https://brew.sh/](https://brew.sh/ "https://brew.sh/")
+
+* You could install stuff without homebrew, but why would you want to do so when homebrew does it for you easily.
+  \- [https://brew.sh/](https://brew.sh/ "https://brew.sh/")
 
 \#### <a name='ripgrep'></a> RipGrep
 \- Lightning fast search, according to it's author faster than anything you've used.
-  - I've not tested this but the author has benchmarks in the git repo.
-\- Link: [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep "https://github.com/BurntSushi/ripgrep")
+
+* I've not tested this but the author has benchmarks in the git repo.
+  \- Link: [https://github.com/BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep "https://github.com/BurntSushi/ripgrep")
 
 \#### <a name='autojump'></a> Autojump
 \- Absolutely adore this nifty utiility.
 \- [https://github.com/wting/autojump](https://github.com/wting/autojump "https://github.com/wting/autojump")
-
 
 \#### <a name='tig'></a> Tig
 \- This is an excellent visual command line git utility.
@@ -130,8 +125,6 @@ Remove the mappings for key combinations ⌥ + ← and ⌥ + →
 \#### <a name='icdiff'></a> Icdiff
 \- Gives a whole new meaning to the command \`git diff\`
 \- [https://github.com/jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff "https://github.com/jeffkaufman/icdiff")
-
-
 
 \---
 This post is a work in progress, I'll keep adding stuff as and when I see something shiny.
