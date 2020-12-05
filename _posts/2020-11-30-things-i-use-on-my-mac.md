@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Things I use on my mac
-excerpt: ''
+excerpt: " List of utilities which are a part of my daily workflow."
 date: 2020-11-30 18:30:00 +0000
 last_modified_at: 2020-10-31 18:30:00 +0000
 categories: []
