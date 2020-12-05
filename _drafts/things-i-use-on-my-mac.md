@@ -35,8 +35,9 @@ Couple of tricks to make iTerm2 even better.
 
 To jump between words and start/end of lines in iTerm2 follow these steps:
 
-iTerm2 -> Preferences (⌘ + ,)
+```iTerm2 -> Preferences (⌘ + ,)
 Open the “Keys” tab
+```
 
 Add the following Global Shortcut Keys
 
