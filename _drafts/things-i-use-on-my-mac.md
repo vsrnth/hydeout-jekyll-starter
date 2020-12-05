@@ -98,6 +98,10 @@ Remove the mappings for key combinations ⌥ + ← and ⌥ + →
 - This app hides any inactive windows.
 - http://hocusfoc.us/
 
+#### <a name='Clipy'></a> Clipy
+  - asdk;
+  - https://clipy-app.com/
+
 ### <a name='command-line-utilities'></a> Command-line Utilities
 
 #### <a name='homebrew'></a> Homebrew
