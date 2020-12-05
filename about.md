@@ -8,14 +8,13 @@ sidebar_sort_order:
 ---
 
 ### Hey there! 👋
-#### I'm Srinath, I code in Ruby on Rails and dabble in ReactJs
-
-
-
+#### I'm Srinath, I code and I absolutely love custom mechanical keyboards.
 
 This is my personal blog, I write about the things following things
-  - I learnt over the course of time.
-  - my opinions for that matter on thing and or things I don't want to forget about.
+I learnt over the course of time and my opinions on a matter and or things I don't want to forget 	  about.
+
+This is my personal blog,
+
 
 Thanks for dropping by my blog on your journey on the internet :)
 
