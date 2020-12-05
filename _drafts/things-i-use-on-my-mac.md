@@ -117,10 +117,6 @@ You could install stuff without homebrew, but why would you want to do so when h
 I've not tested this but the author has benchmarks in the git repo.
 - Link: https://github.com/BurntSushi/ripgrep
 
-#### <a name='autojump'></a> Autojump
-- Absolutely adore this nifty utiility.
-- https://github.com/wting/autojump
-
 #### <a name='tig'></a> Tig
 - This is an excellent visual command line git utility.
 - You can pretty much do everything you want and more using this.
