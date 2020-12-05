@@ -6,7 +6,7 @@ date:
 sidebar_sort_order: 
 
 ---
-<p class="message"> 
+<class="message"> 
 
 Hey there! I'm Srinath. This is my personal blog, I write about things I don't want to forget about.
 </p>
