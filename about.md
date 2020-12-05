@@ -19,7 +19,7 @@ This is my personal blog, I write about the things following things
 
 Thanks for dropping by my blog on your journey on the internet :)
 
-Feel free to drop any feedback at [https://twitter.com/vsrnth](@vsrnth)
+Feel free to drop any feedback at [@vsrnth](https://twitter.com/vsrnth)
 
 <div class="message">
 
